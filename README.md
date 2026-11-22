@@ -16,7 +16,7 @@ I learn by building: shipping real projects end to end, breaking them, and figur
 | --- | --- | --- |
 | **[LockedIn](https://github.com/cloak720/LockedIn)** | Free, open-source progressive web app for breaking compulsive habits. Local-first (no backend), AES-256 encryption at rest, strict Content Security Policy, pattern analytics and an AI coach. 133 unit tests. | TypeScript · React · Vite · WebCrypto · Vitest |
 | **[NeighborAid](https://github.com/cloak720/project)** | Community help platform that connects people who need help with local volunteers: requests, opportunities, notifications and feedback, with map-based discovery. | React · Spring Boot · MySQL · Google Maps |
-| **[Address Book](https://github.com/cloak720/java-fullstack-assessment)** | Full-stack contact manager with a REST API and a React frontend (CRUD). | Java · Spring Boot · MySQL · React |
+
 
 ---
 
