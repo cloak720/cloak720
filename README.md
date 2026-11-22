@@ -45,4 +45,8 @@ I learn by building: shipping real projects end to end, breaking them, and figur
 
 ---
 
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derin%20Babu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derin-babu-6582a9311)
+
 <sub>Always happy to collaborate on AI/ML and full-stack projects.</sub>
